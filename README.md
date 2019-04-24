@@ -1,5 +1,5 @@
 # Homework4. Write a bash script .  
-f
+sdfasfdf
 ## The deadline to turning this homework is ** Wednesday at 11:00:00pm **   
 <<<<<<< HEAD
 sdaffda
