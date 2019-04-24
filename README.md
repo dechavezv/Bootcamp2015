@@ -1,5 +1,5 @@
 # Homework4. Write a bash script .  
-
+f
 ## The deadline to turning this homework is ** Wednesday at 11:00:00pm **   
 
 In this homework you will work with the file `hg19.gtf` located at `~/classdata`. This is a simple tab-delimited text file for describing genomic features and 
