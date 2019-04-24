@@ -1,7 +1,12 @@
 # Homework4. Write a bash script .  
 f
 ## The deadline to turning this homework is ** Wednesday at 11:00:00pm **   
+<<<<<<< HEAD
 sdaffda
+=======
+sfljsdlfa
+####
+>>>>>>> 19abeec12c1ab025359cea1ef18d5245cfeb0e23
 In this homework you will work with the file `hg19.gtf` located at `~/classdata`. This is a simple tab-delimited text file for describing genomic features and 
 consists of one line per feature, each containing 9 columns of data:  
 
